@@ -1,2 +1,6 @@
 this note get from [mikesmullin](https://gist.github.com/mikesmullin/6259449)
 also i have fork it
+similar link: -https://stackoverflow.com/questions/51032301/how-can-i-write-raw-machine-code-for-x86-without-using-assembly
+
+opcode instruction link:
+    -http://ref.x86asm.net/coder32.html#x00
