@@ -1,5 +1,6 @@
 this note get from [mikesmullin](https://gist.github.com/mikesmullin/6259449)
 also i have fork it
+
 similar link: -https://stackoverflow.com/questions/51032301/how-can-i-write-raw-machine-code-for-x86-without-using-assembly
 
 opcode instruction link:
@@ -7,3 +8,43 @@ opcode instruction link:
 
 documentation:
     -https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html#three-volume
+
+telegram pinned:
+    1. Video Tutorial Assembly x86_64: https://www.youtube.com/watch?v=VQAKkuLL31g&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn
+
+    2. The Art of Intel x86 Assembly: https://archive.teainside.org/fcs/Art%20Of%20Intel%20x86%20Assembly.pdf
+
+    3. Intel 80386 Reference Programmer's Manual: https://pdos.csail.mit.edu/6.828/2004/readings/i386/toc.htm
+
+    4. NASM vs GAS: https://www.ibm.com/developerworks/linux/library/l-gas-nasm/index.html
+
+    5. Software Optimization Resources (Agner Fog's): http://www.agner.org/optimize/
+
+    6. Randall Hyde's Art of Assembly: http://www.plantation-productions.com/Webster/www.artofasm.com/index.html
+
+    7. Ralf Brown's Interrupt List (RBIL): http://www.ctyme.com/rbrown.htm
+
+    8. "Machine Language for C64 and Other Commodore Computers", by Jim Butterfield: https://goo.gl/qx5X6Z
+
+    9. x86-64: Examples and tests: https://github.com/alecov/asmtests (Always WIP)
+
+    10. Stack frame layout x86_64: https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64
+
+    11. Identify your Intel processor: https://software.intel.com/en-us/articles/intel-architecture-and-processor-identification-with-cpuid-model-and-family-numbers
+
+    12. xorpd's assembly riddles: https://www.xorpd.net/pages/xchg_rax/snip_01.html
+
+    13. "The Linux kernel", by Andries Brouwer: https://www.win.tue.nl/~aeb/linux/lk/lk.html
+
+    14. Belajar Assembly lewat Golang:
+    https://quasilyte.dev/blog/post/go-asm-complementary-reference/
+
+    15. Awesome ASM:
+    https://github.com/lurumdare/awesome-asm
+
+    16. http://ref.x86asm.net/coder64.html
+
+    17. http://www.koth.org/pmars/
+
+    18. x64 Assembly
+    https://0xinfection.github.io/reversing/pages/part-27-x64-assembly-part-1.html
