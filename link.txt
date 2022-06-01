@@ -4,3 +4,6 @@ similar link: -https://stackoverflow.com/questions/51032301/how-can-i-write-raw-
 
 opcode instruction link:
     -http://ref.x86asm.net/coder32.html#x00
+
+documentation:
+    -https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html#three-volume
