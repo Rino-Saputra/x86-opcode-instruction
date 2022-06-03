@@ -6,7 +6,7 @@ tool -> buuild system -> new build system.
 	"cmd": ["/usr/local/bin/nasm -f elf -g -F stabs ${file} && ld -o ${file_path}/${file_base_name} ${file_path}/${file_base_name}.o && ${file_path}/./${file_base_name}"],
 	"file_regex": "^(.+):([0-9]+)()?: error: (.*)$",
 	"working_dir": "${file_path}",
-	"selector": "source.assembly,source.asm",
+	"selector": "source.assembly,source.asm,source.s",
 
 	"variants":
 	[
